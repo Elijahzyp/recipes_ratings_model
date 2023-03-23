@@ -1,4 +1,6 @@
 # Guess the Calories 🤤
+Our exploratory data analysis on this dataset can be found [here](https://elijahzyp.github.io/recipes_ratings/).
+
 ### Framing the Problem
 
 ​		For our project, our objective is to estimate the **calories** of each recipe through feature engineering and modeling techniques. 
